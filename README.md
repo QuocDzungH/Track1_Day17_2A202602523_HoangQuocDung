@@ -1,5 +1,3 @@
-# Bài lab: Problem Interview - Case A
-
 ## 1. Thông tin cá nhân và nhóm
 
 - **Họ và tên:** Hoàng Quốc Dũng

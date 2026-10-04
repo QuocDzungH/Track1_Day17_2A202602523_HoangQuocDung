@@ -1,9 +1,15 @@
 # Bài lab: Problem Interview - Case A
 
 ## 1. Thông tin cá nhân và nhóm
-- **Tên nhóm**: Prompt Kiếm Tông
-- **Thành viên**: Hoàng Quốc Dũng (2A202602523)
-- **Case đã chọn**: Case A — AI Tutor: Diagnostic Refresher
+
+- **Họ và tên:** Hoàng Quốc Dũng
+- **Mã học viên (MHV):** 2A202602523
+- **Tên nhóm:** Prompt Kiếm Tông
+- **Thành viên nhóm:**
+  - Hoàng Quốc Dũng
+  - Trần Đình Hinh
+  - Đinh Xuân Quyền
+- **Case đã chọn:** Case A — AI Tutor: Diagnostic Refresher
 
 ## 2. Problem Hypothesis Brief (Kết quả Chặng 1)
 
